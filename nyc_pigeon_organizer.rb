@@ -7,6 +7,7 @@ def nyc_pigeon_organizer(data)
       :gender => ["male"],
       :lives => ["Subway"]
     },
+    binding.pry
     "Peter Jr." => {
       :color => ["purple", "grey"],
       :gender => ["male"],
